@@ -1,0 +1,20 @@
+{
+  "components": {
+    "appContainer": {
+      "darkMode": "Modo Oscuro",
+      "english": "Ingles",
+      "spanish": "Español"
+    },
+    "postCard": {
+      "body": "Agrega un comentario",
+      "cancel": "Cancelar",
+      "create": "Crear",
+      "email": "Correo",
+      "hideComments": "Ocultar comentarios",
+      "postBy": "Publicado por",
+      "postList": "Lista de Post",
+      "showComments": "Mostrar Comentarios",
+      "title": "Titulo"
+    }
+  }
+}

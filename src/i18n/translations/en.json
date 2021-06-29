@@ -1,0 +1,20 @@
+{
+  "components": {
+    "appContainer": {
+      "darkMode": "Dark Mode",
+      "english": "English",
+      "spanish": "Spanish"
+    },
+    "postCard": {
+      "body": "Body",
+      "cancel": "Cancel",
+      "create": "Create",
+      "email": "Email",
+      "hideComments": "Hide Comments",
+      "postBy": "Post By",
+      "postList": "Post List",
+      "showComments": "Show comments",
+      "title": "Title"
+    }
+  }
+}
